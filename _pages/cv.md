@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in New Energy Science & Technology, Huazhong University of Science and Technology, 2020 
+* B.S. in New Energy Science & Technology, Huazhong University of Science and Technology, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* From March 2025 to Present: Associate Professor
+  * College of Materials, Xiamen University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* From December 2022 to December 2024: Marie Skłodowska-Curie Fellow
+  * French National Centre for Scientific Research (CNRS), Paris, France
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* From April 2021 to November 2022: Postdoctoral Researcher
+  * PHENIX Lab, CNRS / Sorbonne University, Paris, France
+  * Supervisor: Mathieu Salanne
+
+* From September 2020 to March 2021: Research Associate
+  * College of Materials Science and Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing, China
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======

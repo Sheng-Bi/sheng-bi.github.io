@@ -41,7 +41,6 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : "https://www.webofscience.com/wos/author/record/AAR-1742-2020"
-  webofscience     : "https://www.webofscience.com/wos/author/record/AAR-1742-2020"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
