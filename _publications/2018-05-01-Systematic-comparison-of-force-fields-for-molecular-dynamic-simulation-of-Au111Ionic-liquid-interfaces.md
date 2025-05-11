@@ -5,6 +5,5 @@ permalink: /publication/2018-05-01-Systematic-comparison-of-force-fields-for-mol
 date: 2018-05-01
 venue: 'Fluid Phase Equilibria'
 paperurl: 'http://dx.doi.org/10.1016/j.fluid.2018.01.024'
-citation: ' Runxi Wang,  Sheng Bi,  Volker Presser,  Guang Feng, &quot;Systematic comparison of force fields for molecular dynamic simulation of Au(111)/Ionic liquid interfaces.&quot; Fluid Phase Equilibria, 2018.'
+citation: 'Runxi Wang, <strong>Sheng Bi</strong>, Volker Presser, Guang Feng&quot;Systematic comparison of force fields for molecular dynamic simulation of Au(111)/Ionic liquid interfaces.&quot; Fluid Phase Equilibria, 2018.'
 ---
-[Access paper here](http://dx.doi.org/10.1016/j.fluid.2018.01.024){:target="_blank"}
