@@ -59,7 +59,7 @@ Service and leadership
 ======
 * Reviewer for:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
-  <div style="width: 48%; padding-right: 10px; margin-left: 30px;">
+  <div style="width: 48%; padding-right: 10px; margin-left: 20px;">
     <strong>ACS Nano</strong><br>
     <strong>Advanced Functional Materials</strong><br>
     <strong>Applied Surface Science</strong><br>
