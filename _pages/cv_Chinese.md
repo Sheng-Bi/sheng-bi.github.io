@@ -9,7 +9,7 @@ redirect_from:
 # 毕晟
 职称：副教授，博士生导师<br>
 邮箱：sheng.bi@xmu.edu.cn<br>
-主页：[https://sheng-bi.github.io](https://sheng-bi.github.io)<br>
+主页：sheng-bi dot github dot io（请将 "dot" 替换为 "." 访问）<br>
 
 ### 个人简历
 毕晟副教授，工学博士，博士生导师，厦门大学“南强青年拔尖人才”，现任职于厦门大学材料学院，兼聘于[人工智能应用电化学实验室（AI4EC Lab）](https://ai4ec.ac.cn/zh)。
@@ -18,7 +18,7 @@ redirect_from:
 
 在加入厦门大学之前，曾在法国国家科学研究中心（CNRS）和索邦大学的PHENIX实验室从事博士后研究。荣获**玛丽·居里学者（2022）**，**湖北省自然科学一等奖（2023，4th/5）**。
 
-欢迎有志于电化学储能理论计算的本科生、硕士生、博士生加入我的团队。更多信息请访问我的[个人主页](https://sheng-bi.github.io/openings)。
+欢迎有志于电化学储能理论计算的本科生、硕士生、博士生加入我的团队。更多信息请访问我的主页：sheng-bi dot github dot io（请将 "dot" 替换为 "." 访问）
 欢迎通过电子邮件联系我。
 
 ---
