@@ -10,7 +10,7 @@ We are a computational chemistry group specializing in molecular simulations of 
 
 Our research focuses on the **development and application of advanced computational methods**, including Molecular Dynamics, first-principles calculations, and machine-learning approaches. We investigate the structure, dynamics, and properties of complex materials, with a particular interest on designing and optimizing innovative **materials for energy storage and conversion applications**, such as supercapacitors and batteries.
 
-**research interests**
+[**Research interests**](/research/):
 - Interfacial structure and dynamics
 - Ion transport and diffusion
 - Porous electrode materials

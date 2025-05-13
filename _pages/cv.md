@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -29,14 +29,12 @@ Work experience
 * From September 2020 to March 2021: Research Associate
   * College of Materials Science and Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing, China
 
-<!-- Skills
+Awards 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* 湖北省自然科学一等奖（4th/5）, 2023
+* Marie Skłodowska-Curie Fellow, 2022
+* Outstanding Graduate of Huazhong University of Science and Technology, 2020
+* WorldQuant BRAIN's International Quant Championship, Champion of the UK, 2019
 
 Publications
 ======
