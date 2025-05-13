@@ -54,19 +54,26 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
+
 Service and leadership
 ======
 * Reviewer for:
-  * ACS Nano
-  * Advanced Functional Materials
-  * Applied Surface Science
-  * ACS Applied Materials & Interfaces
-  * Carbon
-  * Energy Storage Materials
-  * Inorganic Chemistry Frontiers
-  * Journal of Power Sources
-  * Journal of Materials Chemistry A
-  * Journal of Physics: Condensed Matter
-  * Journal of Chemical Physics
-  * Nanoscale
-  * RSC Advances
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
+  <div style="width: 48%; padding-right: 10px; margin-left: 30px;">
+    <strong>ACS Nano</strong><br>
+    <strong>Advanced Functional Materials</strong><br>
+    <strong>Applied Surface Science</strong><br>
+    <strong>ACS Applied Materials & Interfaces</strong><br>
+    <strong>Carbon</strong><br>
+    <strong>Energy Storage Materials</strong><br>
+    <strong>Inorganic Chemistry Frontiers</strong><br>
+  </div>
+  <div style="width: 48%; padding-left: 10px;">
+    <strong>Journal of Power Sources</strong><br>
+    <strong>Journal of Materials Chemistry A</strong><br>
+    <strong>Journal of Physics: Condensed Matter</strong><br>
+    <strong>Journal of Chemical Physics</strong><br>
+    <strong>Nanoscale</strong><br>
+    <strong>RSC Advances</strong><br>
+  </div>
+</div>
