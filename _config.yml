@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "The Bi-Group"
+title                    : "Sheng Bi"
 title_separator          : "-"
-name                     : &name "Sheng Bi/毕晟"
-description              : &description "Computational Chemist, Associate Professor at Xiamen University, College of Materials, also affiliated with the AI4EC lab."
+name                     : &name "Sheng Bi / 毕晟"
+description              : &description "A Computational Chemist, Associate Professor at College of Materials, Xiamen University"
 url                      : https://sheng-bi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sheng-bi/sheng-bi.github.io"
@@ -23,7 +23,7 @@ repository               : "sheng-bi/sheng-bi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sheng Bi/毕晟" # Name to display in the sidebar
+  name             : "Sheng Bi / 毕晟" # Name to display in the sidebar
   pronouns         : # example: "she/her"  
   bio              : "A Computational Chemist, Associate Professor at College of Materials, Xiamen University"
   location         : "Xiamen, China" # Location to display in the sidebar
