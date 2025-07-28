@@ -19,6 +19,10 @@ main:
 
   - title: "Openings"
     url: /openings/
+
+  - title: "Wiki"
+    url: /wiki/
+
   # - title: "Talks"
   #   url: /talks/    
 
