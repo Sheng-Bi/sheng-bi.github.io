@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "GROMACS"
-permalink: /wiki/tutorials/gromacs/
+permalink: /wiki/tutorials/gromacs-installation/
 author_profile: true
 parent: Tutorials
 grand_parent: Wiki
