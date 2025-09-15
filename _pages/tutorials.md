@@ -5,7 +5,7 @@ permalink: /wiki/tutorials/
 author_profile: true
 parent: Wiki
 ---
-# Tutorials
+<!-- # Tutorials -->
 
 Welcome to the Tutorials section. Here you will find guides and resources to help you get started with various tools and techniques in computational chemistry and molecular simulations.
 ## GROMACS
