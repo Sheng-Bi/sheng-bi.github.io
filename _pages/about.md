@@ -21,4 +21,8 @@ We are always looking for talented and motivated students to join our group. If 
 
 News
 ======
-1. **April, 2025**: I officially joined Xiamen University as an Associate Professor.
+**April, 2025**: I officially joined Xiamen University as an Associate Professor.
+
+**Sep, 2025**: I was awarded the NSFC Young Scientists Fund (国自然青年项目C).
+
+**Dec, 2025**: I have been selected for a national-level young talent program (国家级青年人才项目) and received the associated research funding; I have also been appointed as a Nanqiang A Professor at Xiamen University (南强青年拔尖人才A岗).

@@ -24,12 +24,12 @@ We offer a competitive stipend and great working environment (Mac desktop, ergon
 
 **欢迎保研的同学来组内做毕业设计，AI4EC实验室将会在这期间提供生活津贴。**
 
-### Postdoctoral Openings
-We currently have **one to two postdoctoral openings**. Preferred candidates should have experience either in:
+### Assistant Professor/Postdoctoral Openings
+We currently have **one Assistant Professor and two postdoctoral openings**. Preferred candidates should have experience either in:
 - Molecular simulations (e.g., Molecular Dynamics, DFT, classical DFT)
 - Machine learning (e.g., machine learning force field development, machine-learning analysis methods)
 
-**The renumeration can be negotiable based on applicant's experience (at least 300K CNY/year, Brut salary). The university will provide a housing allowance or a free apartment.**
+**The renumeration can be negotiable based on applicant's experience (at least 220K CNY/year, Brut salary). The university will provide a housing allowance or a free apartment.**
 
 **博士落户厦门可以有8W的一次性奖励，博士后出站后留厦工作的可再获得30万元安家补贴。**
 

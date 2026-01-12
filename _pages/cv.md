@@ -16,7 +16,10 @@ Education
 
 Work experience
 ======
-* From March 2025 to Present: Associate Professor
+* From Dec 2025 to Present: Full Professor
+  * College of Materials, Xiamen University
+
+* From March 2025 to Dec 2025: Associate Professor
   * College of Materials, Xiamen University
 
 * From December 2022 to December 2024: Marie Skłodowska-Curie Fellow
@@ -31,6 +34,7 @@ Work experience
 
 Awards 
 ======
+* 国家级青年人才项目，2025
 * 湖北省自然科学一等奖（4th/5）, 2023
 * Marie Skłodowska-Curie Fellow, 2022
 * Outstanding Graduate of Huazhong University of Science and Technology, 2020
