@@ -12,8 +12,12 @@ We are a computational chemistry group working at the molecular simulation of en
 
 ## PhD Students
 - **Mr. Yize Wang – 2025** 
+- **Mr. Xuan-Jie Cheng – 2026** 
 
 ## Master's Students
-- **Mr. Zhigao Duan – 2025** 
+- **Ms. Yi-Ting Yang – 2026** 
+- **Mr. Wei Xu – 2026** 
+- **Mr. Ming-Xuan Luo – 2026** 
+- **Mr. Xin Huang – 2026** 
 
 ## Alumni

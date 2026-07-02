@@ -4,30 +4,28 @@ title: "Research projects"
 author_profile: true
 ---
 
-## Constant potential molecular dynamics (CPMD) simulations of supercapacitors
-We develop a constant potential molecular dynamics (CPMD) method to simulate the electrochemical double layer (EDL) at the interface between a solid electrode and an ionic liquid electrolyte. The CPMD method allows us to control the potential of the electrode, enabling us to study the EDL structure and dynamics under realistic conditions. 
+## Developing AI Methods for Computational Chemistry
 
-**Highlighted related publications:**
-- ["Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers?." **Journal of Energy Chemistry**, 2024.](/publication/2024-07-01-Constant-charge-method-or-constant-potential-method-Which-is-better-for-molecular-modeling-of-electrical-double-layers)
-- ["Co-ion desorption as the main charging mechanism in metallic 1T-MoS2 supercapacitors." **ACS Nano**, 2022.](/publication/2022-11-01-Co-ion-desorption-as-the-main-charging-mechanism-in-metallic-1T-MoS2-supercapacitors)
+*This research is supported by the National Science and Technology Major Project on New Generation Artificial Intelligence (新一代人工智能国家科技重大专项).*
 
-## Microscopic modeling of supercapacitors
-We use molecular dynamics simulations to study the structure and dynamics of supercapacitors at the atomic level. We investigate the effects of electrode material, electrolyte composition, and applied potential on the EDL structure, ion transport, and capacitance. We also explore the role of ion solvation structures and ion pairing in determining the EDL properties.
+### Developing science agents for computational chemistry（计算化学科学智能体开发）
+We develop LLM-based agents for autonomous computational chemistry research—agents that can plan simulation campaigns, set up and run calculations, analyze results, and iterate toward a scientific goal with minimal human intervention. In parallel, we rebuild classical computational chemistry algorithms on modern machine learning frameworks such as PyTorch and JAX, turning them into differentiable, GPU-native, composable tools that these agents can reliably orchestrate.
 
-**Highlighted related publications:**
-- ["Molecular understanding of charge storage and charging dynamics in supercapacitors with MOF electrodes and ionic liquid electrolytes." **Nature Materials**, 2020.](/publication/2020-02-01-Molecular-understanding-of-charge-storage-and-charging-dynamics-in-supercapacitors-with-MOF-electrodes-and-ionic-liquid-electrolytes/)
-- ["Modeling of Nanomaterials for Supercapacitors: Beyond Carbon Electrodes." **ACS Nano**, 2024.](/publication/2024-07-01-Modeling-of-Nanomaterials-for-Supercapacitors-Beyond-Carbon-Electrodes)
+### Differentiable molecular dynamics: development and implementation（可微分分子动力学的开发与实现）
+We build end-to-end differentiable molecular dynamics engines in which gradients can be propagated through the entire simulation trajectory. This allows force-field parameters, simulation protocols, and even material design variables to be optimized directly against experimental or quantum-mechanical targets. We focus on numerically stable backpropagation through long trajectories, differentiable implementations of thermostats and constant-potential electrodes, and applications to inverse design of electrolytes and interfaces.
 
-## Electrochemical interfaces
-We investigate the structure and dynamics of electrochemical interfaces, including the solid-liquid interface and the solid-solid interface. We study how the composition and structures of the electrolyte and electrode materials affect the interfacial properties, such as ion adsorption and ion transport. We also develop methods to calculate the interfacial capacitance and resistance from molecular dynamics simulations.
+### Machine learning force field development and acceleration（机器学习力场的开发与加速）
+We develop machine learning force fields (MLFFs) that learn potential energy surfaces from ab initio data, achieving near-quantum accuracy at a fraction of the cost of first-principles methods. Our work covers training-set construction, active learning strategies, and the acceleration of MLFF inference on modern GPU architectures, enabling long-timescale, large-scale simulations of complex materials and electrolytes that were previously out of reach for classical or ab initio molecular dynamics.
 
-**Highlighted related publications:**
-- ["Minimizing the electrosorption of water from humid ionic liquids on electrodes." Nature Communications, 2018.](/publication/2018-12-01-Minimizing-the-electrosorption-of-water-from-humid-ionic-liquids-on-electrodes)
-- ["Regulation of SEI Formation by Anion Receptors to Achieve Ultra-Stable Lithium-Metal Batteries." **Angewandte Chemie International Edition**, 2021.](/publication/2021-08-01-Regulation-of-SEI-Formation-by-Anion-Receptors-to-Achieve-Ultra-Stable-Lithium-Metal-Batteries)
+## Microscopic Modeling of Energy Storage Materials
 
-## Ion transport and diffusion in condensed electrolytes
-We investigate the ion transport and diffusion mechanisms in condensed electrolytes, such as ionic liquids and water-in-salts. We develop graph-theory-based methods to analyze the ion transport pathways and identify the key factors that influence ion mobility. We also develop methods to calculate the diffusion coefficients and conductivity of condensed electrolytes from molecular dynamics simulations.
+*This research is supported by the National Natural Science Foundation of China (国家自然科学基金), including the Excellent Young Scientists Fund (Overseas) (海外优青) and the Young Scientists Fund C (青年项目C).*
 
-**Highlighted related publications:**
-- ["Cluster analysis as a tool for quantifying structure–transport properties in simulations of superconcentrated electrolyte." **Chemical Science**, 2024.](/publication/2024-01-01-Cluster-analysis-as-a-tool-for-quantifying-structuretransport-properties-in-simulations-of-superconcentrated-electrolyte)
-- ["Free and Bound States of Ions in Ionic Liquids, Conductivity, and Underscreening Paradox." **Physical Review X**, 2019.](/publication/2019-01-01-Free-and-Bound-States-of-Ions-in-Ionic-Liquids-Conductivity-and-Underscreening-Paradox)
+### Ion storage mechanism in porous materials（多孔材料中的离子存储机制）
+We use molecular simulations to reveal how ions are stored in nanoporous electrodes such as porous carbons, conductive metal–organic frameworks, and two-dimensional materials. By resolving ion confinement, desolvation, and charging dynamics at the sub-nanometer scale, we identify the microscopic mechanisms—counter-ion adsorption, co-ion desorption, and ion exchange—that govern capacitance and power density in supercapacitors and related devices.
+
+### Structure and dynamics of electrochemical interfaces（电化学界面的结构与动力学）
+We investigate the electrical double layer at electrode–electrolyte interfaces using constant-potential molecular dynamics, which keeps the electrode at a realistic applied voltage rather than a fixed charge. We study how electrode material, electrolyte composition, and humidity shape interfacial ion arrangement, capacitance, and interfacial reactions such as SEI formation, providing molecular-level design rules for supercapacitors, batteries, and iontronic devices.
+
+### Ion transport and diffusion in condensed electrolytes（凝聚态电解质中的离子输运与扩散）
+We study how ions move through concentrated electrolytes such as ionic liquids and water-in-salt systems, where strong ion–ion correlations break the dilute-solution picture. Using graph-theory-based cluster analysis, we map ion aggregation and percolating networks onto measurable transport properties, quantifying free versus bound ions and explaining phenomena such as the underscreening paradox—insights that guide the design of electrolytes with higher conductivity and wider electrochemical windows.
