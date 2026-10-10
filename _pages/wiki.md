@@ -5,7 +5,12 @@ permalink: /wiki/
 author_profile: true
 ---
 
-## **[Tutorials](/wiki/tutorials/)**
+## **Guides**
+
+- **[Tutorials]({{ '/wiki/tutorials/' | relative_url }})**
+- **[AI4EC-Lab Token Plan]({{ '/wiki/token-plan/' | relative_url }})**
+- **[AI Coding Tools: Installation and Setup]({{ '/wiki/ai-coding-tools/' | relative_url }})**
 
 ## **Courses**
-- **Artificial Intelligence and Materials（人工智能与材料）** — 2026，本科二年级课程
+
+- **Artificial Intelligence and Materials** — 2026, second-year undergraduate course

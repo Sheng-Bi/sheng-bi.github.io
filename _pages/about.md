@@ -31,3 +31,9 @@ News
 **Dec, 2025**: I have been selected for a national-level young talent program (国家级青年人才项目) and received the associated research funding; I have also been appointed as a Nanqiang A Professor at Xiamen University (南强青年拔尖人才A岗).
 
 **Jan, 2026**: We were granted the National Science and Technology Major Project on New Generation Artificial Intelligence (新一代人工智能国家科技重大专项), in which I serve as a sub-project leader (子课题负责人).
+
+**June, 2026**: I won first prize in the [2026 Young Faculty Teaching Skills Competition at Xiamen University's College of Materials](https://cm.xmu.edu.cn/info/1211/26495.htm) (厦门大学材料学院青年教师教学技能比赛一等奖), held on June 18.
+
+**July 1, 2026**: Our preprint, [Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems](https://arxiv.org/abs/2607.00613), is now available on arXiv.
+
+**July 16, 2026**: Our preprint, [Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields](https://arxiv.org/abs/2607.14486), is now available on arXiv.

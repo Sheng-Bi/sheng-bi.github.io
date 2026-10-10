@@ -34,6 +34,7 @@ Work experience
 
 Awards 
 ======
+* [First Prize, Young Faculty Teaching Skills Competition, College of Materials, Xiamen University](https://cm.xmu.edu.cn/info/1211/26495.htm) (厦门大学材料学院青年教师教学技能比赛一等奖), 2026
 * 国家级青年人才项目，2025
 * 湖北省自然科学一等奖（4th/5）, 2023
 * Marie Skłodowska-Curie Fellow, 2022
@@ -65,19 +66,25 @@ Service and leadership
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
   <div style="width: 48%; padding-right: 10px; margin-left: 20px;">
     <strong>ACS Nano</strong><br>
+    <strong>ACS Applied Electronic Materials</strong><br>
     <strong>Advanced Functional Materials</strong><br>
     <strong>Applied Surface Science</strong><br>
     <strong>ACS Applied Materials & Interfaces</strong><br>
     <strong>Carbon</strong><br>
+    <strong>Chemical Reviews</strong><br>
+    <strong>Electrochimica Acta</strong><br>
     <strong>Energy Storage Materials</strong><br>
     <strong>Inorganic Chemistry Frontiers</strong><br>
   </div>
   <div style="width: 48%; padding-left: 10px;">
     <strong>Journal of Power Sources</strong><br>
     <strong>Journal of Materials Chemistry A</strong><br>
+    <strong>Journal of Materials Informatics</strong><br>
     <strong>Journal of Physics: Condensed Matter</strong><br>
+    <strong>Journal of Physics: Materials</strong><br>
     <strong>Journal of Chemical Physics</strong><br>
     <strong>Nanoscale</strong><br>
+    <strong>Physical Chemistry Chemical Physics</strong><br>
     <strong>RSC Advances</strong><br>
   </div>
 </div>

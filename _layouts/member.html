@@ -1,0 +1,48 @@
+---
+layout: single
+---
+
+<div class="member-profile">
+
+{% if page.photo and page.photo != '' %}
+<img src="{{ page.photo | relative_url }}" alt="Portrait of {{ page.title | escape }}" style="width: 180px; max-width: 100%; height: auto; border-radius: 8px;">
+{% endif %}
+
+<dl>
+  <dt>Program</dt>
+  <dd>{{ page.program | escape }}</dd>
+{% if page.study_year and page.study_year != '' %}
+  <dt>Study year</dt>
+  <dd>{{ page.study_year | escape }}</dd>
+{% endif %}
+{% if page.entry_year and page.entry_year != '' %}
+  <dt>Entry year</dt>
+  <dd>{{ page.entry_year }}</dd>
+{% endif %}
+
+{% assign member_education = page.education | default: page.previous_university %}
+{% assign member_education_zh = page.education_zh | default: page.previous_university_zh %}
+{% if member_education and member_education != '' %}
+  <dt>Education</dt>
+  <dd>{{ member_education | escape }}{% if member_education_zh and member_education_zh != '' %} ({{ member_education_zh | escape }}){% endif %}</dd>
+{% endif %}
+
+{% assign member_email = page.email | default: '' | strip %}
+{% assign member_website = page.website | default: '' | strip %}
+  <dt>Email</dt>
+  <dd>{% if member_email != '' %}<a href="mailto:{{ member_email | escape }}">{{ member_email | escape }}</a>{% endif %}</dd>
+  <dt>Website</dt>
+  <dd>{% if member_website != '' %}<a href="{{ member_website | escape }}">{{ member_website | escape }}</a>{% endif %}</dd>
+
+{% if page.bio and page.bio != '' %}
+  <dt>Short bio</dt>
+  <dd>{{ page.bio | markdownify }}</dd>
+{% endif %}
+
+</dl>
+
+{{ content }}
+
+<p><a href="{{ '/members/' | relative_url }}">Back to all members</a></p>
+
+</div>
