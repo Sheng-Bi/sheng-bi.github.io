@@ -37,3 +37,5 @@ News
 **July 1, 2026**: Our preprint, [Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems](https://arxiv.org/abs/2607.00613), is now available on arXiv.
 
 **July 16, 2026**: Our preprint, [Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields](https://arxiv.org/abs/2607.14486), is now available on arXiv.
+
+**October 11, 2026**: Our preprint, [Kernel-Level Constant-Potential Molecular Dynamics in GROMACS](https://arxiv.org/abs/2610.15733), is now available on arXiv. The code and examples are available in our [GitHub repository](https://github.com/Sheng-Bi/Gromacs_CPM).
