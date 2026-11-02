@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-We are a computational chemistry group specializing in molecular simulations of energy materials. We are affiliated with the [AI4EC Lab](https://ai4ec.ac.cn/) at [Xiamen University](https://en.xmu.edu.cn/main.htm) in Xiamen, China.
+We are a computational chemistry group specializing in molecular simulations of energy materials. We are affiliated with the [AI4EC Lab](https://ai4ec.ac.cn/en) at [Xiamen University](https://en.xmu.edu.cn/) in Xiamen, China.
 
 Our research focuses on the **development and application of advanced computational chemistry methods**, including Molecular Dynamics, first-principles calculations, and machine-learning approaches. We investigate the structure, dynamics, and properties of complex materials, with a particular interest on designing and optimizing innovative **materials for energy storage and conversion applications**, such as supercapacitors and batteries.
 

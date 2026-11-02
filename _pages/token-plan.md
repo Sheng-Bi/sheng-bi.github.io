@@ -9,12 +9,14 @@ The Token Plan provides group members with LLM service accounts and usage credit
 
 - [LLM service portal](https://chenglab.xmu.edu.cn/llm/)
 - [External-user account application / 外部用户账号申请](#external-user-application)
+- [External-user support / 外部用户支持](#external-user-support)
 - [Frequently asked questions](https://wiki.cheng-group.net/wiki/token_plan/faq/)
 
 ## Contents
 
 - [Overview and account access](#overview)
 - [External-user application / 外部用户账号申请](#external-user-application)
+- [External-user support / 外部用户支持](#external-user-support)
 - [AI coding tools](#coding-tools)
 - [Managing configurations](#cc-switch)
 - [VS Code extensions](#vscode)
@@ -51,6 +53,19 @@ External users can request an account through the application form below. Open t
     <img src="{{ '/images/token-plan/external-user-application.png' | relative_url }}" alt="QR code for the external-user account application form / 外部用户账号申请表二维码" width="220" height="220" style="display: block; box-sizing: content-box; max-width: calc(100% - 32px); padding: 16px; background: #fff;">
   </a>
   <figcaption>Scan to apply for an external-user account. / 扫码申请外部用户账号。</figcaption>
+</figure>
+
+### External-user support / 外部用户支持 {#external-user-support}
+
+Scan the QR code below in Feishu to join the **LiteLLM external support group** for help with account access and service usage. Click the image to view the full-size QR code.
+
+使用飞书扫描下方二维码，加入 **LiteLLM 外部支持群**，咨询账号接入与服务使用问题。点击图片可查看原图。
+
+<figure>
+  <a href="{{ '/images/token-plan/external-support-group.png' | relative_url }}" aria-label="View the full-size support-group QR code / 查看支持群二维码原图">
+    <img src="{{ '/images/token-plan/external-support-group.png' | relative_url }}" alt="Feishu QR code for the LiteLLM external support group / LiteLLM 外部支持群飞书二维码" style="display: block; width: 420px; max-width: 100%; height: auto;">
+  </a>
+  <figcaption>Scan in Feishu to join the external support group. / 使用飞书扫码加入外部支持群。</figcaption>
 </figure>
 
 ### Using your account
