@@ -34,6 +34,7 @@ Work experience
 
 Awards 
 ======
+* [Second Prize, 21st Young Faculty Teaching Competition, Xiamen University](https://moa.xmu.edu.cn/sys/news/sys_news_main/sysNewsMain.do?method=view&fdId=1a1edf73c5a6a04d70cd6e5497caeb30), November 19, 2026
 * [First Prize, Young Faculty Teaching Skills Competition, College of Materials, Xiamen University](https://cm.xmu.edu.cn/info/1211/26495.htm) (厦门大学材料学院青年教师教学技能比赛一等奖), 2026
 * 国家级青年人才项目，2025
 * 湖北省自然科学一等奖（4th/5）, 2023
