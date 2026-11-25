@@ -39,3 +39,5 @@ News
 **July 16, 2026**: Our preprint, [Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields](https://arxiv.org/abs/2607.14486), is now available on arXiv.
 
 **October 11, 2026**: Our preprint, [Kernel-Level Constant-Potential Molecular Dynamics in GROMACS](https://arxiv.org/abs/2610.15733), is now available on arXiv. The code and examples are available in our [GitHub repository](https://github.com/Sheng-Bi/Gromacs_CPM).
+
+**November, 2026**: I won second prize in [Xiamen University's 21st Young Faculty Teaching Competition](https://moa.xmu.edu.cn/sys/news/sys_news_main/sysNewsMain.do?method=view&fdId=1a1edf73c5a6a04d70cd6e5497caeb30).
